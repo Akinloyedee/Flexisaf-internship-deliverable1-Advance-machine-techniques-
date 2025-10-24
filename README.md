@@ -32,14 +32,4 @@ To train and evaluate two machine learning models that showcase advanced concept
 ## 📝 Summary
 This project demonstrates how different machine learning models approach the same classification task. Random Forest offers robustness and feature insights, while Logistic Regression provides interpretability and probability-based evaluation. Both models were trained, tested, and analyzed to highlight their strengths and limitations.
 
-## 🚀 How to Run
-1. Clone the repository
-2. Open the notebooks in Jupyter or VS Code
-3. Run all cells from top to bottom
-
-## 🙋🏽‍♂️ Author
-**Oluwadara [Your Last Name]**  
-Intern at Flexisaf  
-GitHub: [your GitHub handle]  
-Email: [your email if you want to include it]
 
